@@ -1,2 +1,6 @@
-package org.example;public class TestSuite {
+package org.example;
+
+public class TestSuite
+{
+
 }
